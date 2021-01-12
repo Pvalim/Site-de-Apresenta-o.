@@ -1,0 +1,315 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"b",
+				"btn1"
+			],
+			[
+				"ti",
+				"title\tTag"
+			],
+			[
+				"bor",
+				"border-radius\tproperty"
+			],
+			[
+				"l",
+				"lang\tAttr"
+			],
+			[
+				"padd",
+				"padding-right\tproperty"
+			],
+			[
+				"fl",
+				"float\tproperty"
+			],
+			[
+				"al",
+				"align-content\tproperty"
+			],
+			[
+				"pa",
+				"padding\tproperty"
+			],
+			[
+				"bot",
+				"padding-bottom\tproperty"
+			],
+			[
+				"back",
+				"background\tproperty"
+			],
+			[
+				"fo",
+				"font-family\tproperty"
+			],
+			[
+				"mar",
+				"margin\tproperty"
+			],
+			[
+				"li",
+				"link\tTag"
+			],
+			[
+				"bo",
+				"bottom\tproperty"
+			],
+			[
+				"cl",
+				"clear"
+			],
+			[
+				"te",
+				"text-align-last\tproperty"
+			],
+			[
+				"ali",
+				"text-align\tproperty"
+			],
+			[
+				"di",
+				"div\tTag"
+			],
+			[
+				"bord",
+				"border\tproperty"
+			],
+			[
+				"text",
+				"text-decoration-color\tproperty"
+			],
+			[
+				"de",
+				"descricao"
+			],
+			[
+				"wid",
+				"width\tproperty"
+			],
+			[
+				"m",
+				"margin\tproperty"
+			],
+			[
+				"st",
+				"strong\tTag"
+			],
+			[
+				"font",
+				"font-size\tproperty"
+			],
+			[
+				"c",
+				"class\tAttr"
+			],
+			[
+				"ri",
+				"margin-right\tproperty"
+			],
+			[
+				"border",
+				"border-width\tproperty"
+			],
+			[
+				"bac",
+				"background-color\tproperty"
+			],
+			[
+				"bg",
+				"background-color\tproperty"
+			],
+			[
+				"i",
+				"input\tTag"
+			],
+			[
+				"me",
+				"meta\tTag"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/Pedro Valim/Desktop/Primeiro JS/javinhaScriptinho.js",
+		"/C/Users/Pedro Valim/Desktop/Primeiro JS/teste.html",
+		"/C/Users/Pedro Valim/Desktop/Projeto Attuall/index.html",
+		"/C/Users/Pedro Valim/Desktop/Projeto Attuall/estilo.css",
+		"/C/Users/Pedro Valim/Desktop/Projeto Attuall/bootstrap/css/bootstrap.css",
+		"/C/Users/Pedro Valim/Desktop/Projeto Attuall/bootstrap/css/bootstrap.min.css",
+		"/C/Users/Pedro Valim/Desktop/Projeto Site/JS/arquivo.html",
+		"/C/Users/Pedro Valim/Desktop/Projeto Site/CSS/estilo.css",
+		"/C/Users/Pedro Valim/Desktop/Projeto Site/CSS/normalize.css",
+		"/C/Users/Pedro Valim/Desktop/Projeto Site/index.html",
+		"/C/Users/Pedro Valim/Desktop/Projeto Site/JS/index.html",
+		"/C/Users/Pedro Valim/Desktop/Projeto Site/JS/trabalhe.html",
+		"/C/Users/Pedro Valim/Desktop/Projeto Site/JS/carrinho.html",
+		"/C/Users/Pedro Valim/Desktop/Projeto Site/JS/contato.html",
+		"/C/Users/Pedro Valim/Desktop/Projeto Site/JS/sobre.html"
+	],
+	"find":
+	{
+		"height": 28.0
+	},
+	"find_in_files":
+	{
+		"height": 104.0,
+		"where_history":
+		[
+			"C:\\Users\\Pedro Valim\\Desktop\\Projeto Attuall\\imagens"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"navbar-light",
+			"navbar navbar-light bg-light",
+			"descricao",
+			"span",
+			"descr",
+			"tr",
+			"td"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 28.0
+	},
+	"input":
+	{
+		"height": 40.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "teste.sublime-project",
+	"replace":
+	{
+		"height": 52.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 231.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

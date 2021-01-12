@@ -1,0 +1,60 @@
+.attual-nav {
+  color: #000000
+}
+
+.bg-navbar {
+	background-color: #bf0f0f;
+}
+
+.btn-nav-pesquisa {
+  color: white;
+  border-color: #ffffff;
+}
+
+.btn-nav-pesquisa : hover {
+  color: #e6e6e6;
+  background-color: #ffffff;
+  border-color: #ffffff;
+}
+
+.letraHeader {
+color: white;
+width: 20px;
+margin-left: 50px;
+text-shadow: 0px 2px black;
+display: block;
+padding: 0.5rem 1rem;
+
+}
+
+.letraHeader: hover{
+color:#e6e6e6;
+width: 20px;
+margin-left: 50px;
+padding: 0.5rem 1rem;
+
+}
+
+
+
+.div-conteudo{
+padding: 1px 50px 1px 50px;
+text-align: justify;
+
+}
+
+.enquadramento{
+	margin: 30px;
+	border-width: 10px;
+    border-style: solid;
+	border-color:#bf0f0f;
+
+}
+
+.input1{
+	margin: 10px 0px 10px 0px;
+	border-width: 5px;
+    border-style: solid;
+	border-color:#bf0f0f;
+
+}
