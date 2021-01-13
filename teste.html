@@ -1,6 +1,7 @@
 <html lang="pt-br">
 <head>
     <meta charset="utf-8"/>
+    <meta http-equiv="X-UA-compatible" content="IE-edge">
     <meta content="width=device-width, initial-scale=1, maximum-scale=1" name="viewport">
     <title>Calculando seu IMC</title>
     
@@ -23,16 +24,23 @@
       </li>
 
 
-	            <li class="nav-item active" >
-
-	            	<a class="letraHeader" href="https://api.whatsapp.com/send?phone=5515991502236&text=Ol%C3%A1!">Contato <span class="sr-only">(current)</span></a>
-
-	             </li>
+	           
 
 	             <li class="nav-item active">
 	             	<a class="letraHeader" href="sobre.html">Sobre mim <span class="sr-only">(current)</span>
 	             	</a>
 	             </li>
+
+	             <li class="nav-item dropdown">
+        <a class="nav-link dropdown-toggle" style="color: white; text-shadow: 0px 2px black; margin-left: 50px;" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+          Redes
+        </a>
+        <div class="dropdown-menu" aria-labelledby="navbarDropdown">
+          <a class="dropdown-item" href="https://www.linkedin.com/in/pedro-valim-88b8151b5">Linkedin</a>
+          <a class="dropdown-item" href="https://github.com/Pvalim">Github</a>
+          <a class="dropdown-item" href="https://api.whatsapp.com/send?phone=5515991502236&text=Ol%C3%A1!">Whatsapp</a>
+          
+         </li>
 
 	  
 	            
@@ -45,20 +53,13 @@
 	    </nav>
 	</header>
  
-	<section>
-	    <article class="enquadramento">
-	        <header>
-	            <h2 class="div-conteudo" >A técnologia para o bem.</h2>
-	            <p style="padding-left: 50px">Publicado em <time datetime="2021-11-09T17:00:24+01:00">11 de Janeiro de 2021</time> por <a href="#">Pedro Valim</a></p>
-	        </header>
-	        <p class="div-conteudo">Durante meu curso técnico de análise e desenvolvimento de sistemas, percebi o quanto a técnologia está presente em nosso dia-a-dia, e em como isso pode ajudar as pessoas a terem uma qualidade de vida melhor graças a ela.
-	        E já que eu estava aprendendo a programar e a criar aplicações, pensei "por que não utilizar esse conhecimento de forma que eu ajude pessoas?".
-	        Foi então que eu tive a ideia de criar um aplicativo que ajudasse os usuários a manterem a forma sem precisar sair de casa, e sem precisar pagar por isso, já que muitas pessoas não tem condições ou tempo para frequentar uma academia.
-	    	Eu e meu coléga de classe, tivemos o desafio de criar nossa primeira aplicação móvel,e tudo isso a distancia, por conta do cancelamento das aulas presenciais por conta da pandemia.
-	    	Não foi fácil para mim conciliar o último ano do ensino médio com meu último módulo do curso, mas graças a orientação dos profesores e muita força de vontade, conclui o TCC com sucesso e hoje sou ex-aluno da Escola técnica estadual Fernando prestes, na sua extensão localizada na escola estadual professor Joaquim Izidoro Marins.  </p>
-	    </article>
+	<section >
+	    
  
 	    <article class="enquadramento">
+
+
+
 	        <header>
 	            <h2 class="div-conteudo" style="text-align: center;">Cálculadora IMC</h2>
 	           
@@ -79,14 +80,36 @@
 
 	    <p>
 
-	  	<input name="Enviar" type="submit" value="Calcular" onclick="calcular_IMC()" />
+	  	<input class="btn-calc"  name="Enviar" type="submit" value="Calcular" onclick="calcular_IMC()" />
 
 	   </p>
 
 
 
 
+
+
 	    </form>
+
+	  
+
+
+
+
+	    </article>
+
+	    <article class="enquadramento">
+
+
+	        <header>
+	            <h2 class="div-conteudo" >Meu caminho como desenvolvedor.</h2>
+	            <p style="padding-left: 50px">Publicado em <time datetime="2021-11-09T17:00:24+01:00">11 de Janeiro de 2021</time> por <a href="#">Pedro Valim</a></p>
+	        </header>
+	        <p class="div-conteudo">Durante meu curso técnico de análise e desenvolvimento de sistemas, percebi o quanto a técnologia está presente em nosso dia-a-dia, e em como isso pode ajudar as pessoas a terem uma qualidade de vida melhor graças a ela.
+	        E já que eu estava aprendendo a programar e a criar aplicações, pensei "por que não utilizar esse conhecimento de forma que eu ajude pessoas?".
+	        Foi então que eu tive a ideia de criar um aplicativo que ajudasse os usuários a manterem a forma sem precisar sair de casa, e sem precisar pagar por isso, já que muitas pessoas não tem condições ou tempo para frequentar uma academia.
+	    	Eu e meu coléga de classe, tivemos o desafio de criar nossa primeira aplicação móvel,e tudo isso a distancia, por conta do cancelamento das aulas presenciais por conta da pandemia.
+	    	Não foi fácil para mim conciliar o último ano do ensino médio com meu último módulo do curso, mas graças a orientação dos profesores e muita força de vontade, conclui o TCC com sucesso e hoje sou ex-aluno da Escola técnica estadual Fernando prestes, na sua extensão localizada na escola estadual professor Joaquim Izidoro Marins.  </p>
 	    </article>
 
 	  
@@ -102,4 +125,9 @@
 	    <p>Copyright</p>
 	</footer>
 </body>
+
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
+
+<script src="bootstrap/js/bootstrap.min.js"></script>
+
 </html>

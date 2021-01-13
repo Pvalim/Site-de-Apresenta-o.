@@ -58,3 +58,9 @@ text-align: justify;
 	border-color:#bf0f0f;
 
 }
+
+.btn-calc{
+  color: white;
+  background-color:#bf0f0f;
+  border-color: #a30202;
+}
